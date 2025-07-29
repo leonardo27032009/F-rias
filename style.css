@@ -1,0 +1,46 @@
+.Começo{
+    display: grid;
+    place-items: center;
+}
+
+.lista1{
+    position: fixed;
+    left: 70%;
+    background-color: rgb(180, 58, 58);
+    color: black;
+    border: solid 4px gold;
+    border-radius: 10px 20px 20px;
+    position: fixed;
+    left: 70%;
+    padding: 14px;
+    box-shadow: 10px 5px 5px black;
+}
+.lista2{
+    position: fixed;
+    left: 15%;
+    background-color: rgb(180, 58, 58);
+    color: black;
+    border: solid 4px gold;
+    border-radius: 10px 20px 20px;
+    position: fixed;
+    left: 15%;
+    padding: 14px;
+    box-shadow: 10px 5px 5px black;
+}
+
+.resto{
+    display: grid;
+    place-items: center;
+ 
+}
+
+body {
+    background-color: rgb(10, 133, 150);
+    color: rgb(255, 255, 255);
+    background: #2e0fdb;
+    background: radial-gradient(circle, rgba(46, 15, 219, 1) 0%, rgba(15, 52, 219, 1) 50%, rgba(83, 186, 237, 1) 100%);
+}
+
+#link{
+    color: red;
+}
